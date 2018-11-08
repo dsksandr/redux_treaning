@@ -20,6 +20,7 @@
     "eslint-loader": "^1.2.1",
     "eslint-plugin-react": "^3.16.1",
     "express": "^4.13.4",
+    "npm-install-webpack-plugin": "^4.0.5",
     "react-hot-loader": "^1.3.0",
     "webpack": "^1.12.12",
     "webpack-dev-middleware": "^1.5.1",
@@ -28,6 +29,7 @@
   "dependencies": {
     "babel-polyfill": "^6.3.14",
     "babel-runtime": "^6.3.19",
+    "reac": "0.0.0",
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
     "react-redux": "^4.0.6",
